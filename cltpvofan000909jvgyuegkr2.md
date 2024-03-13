@@ -27,3 +27,5 @@ AI is no longer confined to tech giants. With the rise of cloud-based AI tools a
 The workplace is undergoing a significant transformation with AI. We'll see AI streamlining workflows, automating repetitive tasks, and even assisting with decision-making. This can free up human employees to focus on more creative and strategic endeavors.
 
 ### TechLearn India: Your Gateway to Master AI
+
+Link :- [TechLearn India](https://app.techlearnindia.com/faang-ready-mastering-data-structures-and-algorithms-with-techlearn-india/?coupon=LEARNING28)
