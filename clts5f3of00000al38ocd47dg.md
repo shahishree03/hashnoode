@@ -47,7 +47,7 @@ By fostering a culture of collaboration and innovation, OWASP goes beyond simply
 
 The digital world is our modern battlefield, filled with unseen threats lurking in the shadows. To safeguard our data and online experiences, we need a team of mighty heroes – but fear not, for we have the OWASP Top 10! Just like the Avengers, each OWASP risk stands as a formidable villain, and together, these ten form a powerful alliance that threatens the security of our digital universe.
 
-**1.Captain Injection (Injection Flaws):** **Beware, web warriors!** ️ Captain Injection is on the loose, lurking in code like a devious ninja . This villain loves to sneak malicious scripts (think tiny bombs ) into websites and applications through weaknesses ⚠️. Once injected, these scripts can steal your data , take control of systems , and wreak havoc on your entire digital world .
+**1.Captain Injection (Injection Flaws):Beware, web warriors!** ️ Captain Injection is on the loose, lurking in code like a devious ninja . This villain loves to sneak malicious scripts (think tiny bombs ) into websites and applications through weaknesses ⚠️. Once injected, these scripts can steal your data , take control of systems , and wreak havoc on your entire digital world .
 
 **Don't let Captain Injection win! Here's your defense kit: ️**
 
@@ -161,7 +161,7 @@ Imagine them as sneaky spies trying to intercept important messages! If they suc
 
 **By being vigilant and implementing these defenses, we can foil the SDE Squad's schemes and keep our sensitive data safe!**
 
-**7.The Missing Function Level Access Control (MFLeAC) Mysterio:**The Missing Function Level Access Control (MFLeAC) Mysterio, a master of deception , lurks within complex systems! Like Mysterio's illusory tricks, MFLeAC creates a false reality where unauthorized users can perform actions they shouldn't be able to.
+\*\*7.The Missing Function Level Access Control (MFLeAC) Mysterio:\*\*The Missing Function Level Access Control (MFLeAC) Mysterio, a master of deception , lurks within complex systems! Like Mysterio's illusory tricks, MFLeAC creates a false reality where unauthorized users can perform actions they shouldn't be able to.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710433870734/e3f4c195-e8eb-4396-bb25-ca0114eb5c82.png align="center")
 
@@ -183,8 +183,6 @@ Imagine a sneaky imposter sneaking past security because the guards are confused
 * **Regular code reviews :** Routinely examine your code for vulnerabilities like security experts checking for hidden trapdoors in Mysterio's illusions.
     
 
-**By staying vigilant and implementing these defenses, we can see through MFLeAC Mysterio's illusions and ensure only authorized users have access to critical functions!**
-
 **8.The Cross-Site Request Forgery (CSRF) Trickster:** Web warriors, be warned! The Cross-Site Request Forgery (CSRF) Trickster, a sly manipulator like Loki, weaves his web of deception! This villain tricks users into unknowingly performing actions on trusted websites. Imagine a mischievous prankster convincing you to click a mysterious link that secretly changes your settings or steals your data ! The CSRF Trickster exploits loopholes in how websites handle requests to perform actions.
 
 Here's how he might trick you:
@@ -202,8 +200,6 @@ Here's how he might trick you:
     
 * **Log out of accounts when not in use :** Make it harder for the Trickster to manipulate your sessions by logging out when you're done.
     
-
-**By being aware of the CSRF Trickster's schemes and using these defenses, we can avoid unknowingly giving away our data and stay safe online!**
 
 **9.The Unvalidated Redirects and Forwards (URF) Twins:** Like mischievous twins using mirrors to create illusions, the URF Twins can manipulate how users navigate websites, leading them astray or stealing their data along the way.
 
